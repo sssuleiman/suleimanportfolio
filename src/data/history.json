@@ -1,15 +1,23 @@
 [
   {
+    "role": "Frontend Engineer",
+    "organisation": "Ewallet",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Web Development", "Reduced load times by 50%"],
+    "imageSrc": "history/ewallet.png"
+  },
+  {
     "role": "Software Engineer",
     "organisation": "Google",
     "startDate": "Sept, 2022",
-    "endDate": "Present",
+    "endDate": "Aug, 2023",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
     "imageSrc": "history/google.png"
   },
   {
     "role": "UI Designer",
-    "organisation": "Mirosoft",
+    "organisation": "Microsoft",
     "startDate": "Aug, 2021",
     "endDate": "Aug, 2022",
     "experiences": ["Worked on Windows 11", "Designed the control panel"],
