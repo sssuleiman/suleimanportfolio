@@ -6,3 +6,25 @@
   height: 100%;
   overflow: hidden;
 }
+
+.upButton {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  padding: 15px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.upButton:hover {
+  background-color: #444;
+}
+
+.upButton svg {
+  width: 24px;
+  height: 24px;
+  stroke: #fff;
+}
